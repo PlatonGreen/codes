@@ -10,4 +10,4 @@ int main(void)
     printf("%c %d %d %f", ch, sh, var_i, var_d);
 
     return 0;
-}
+} 
