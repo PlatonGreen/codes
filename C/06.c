@@ -8,4 +8,4 @@ int main(void)
     printf("%u %lld %0.4Lf",height, dist, weight);
 
     return 0;
-}
+} 
